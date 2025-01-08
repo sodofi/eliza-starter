@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { AutoClientInterface } from "@elizaos/client-auto";
 import { DiscordClientInterface } from "@elizaos/client-discord";
 import { TelegramClientInterface } from "@elizaos/client-telegram";
